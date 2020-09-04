@@ -1,0 +1,22 @@
+.one
+{
+    background-color: red;
+}
+.two
+{
+    background-color: blue;
+}
+.three
+{
+    background-color: yellow;
+}
+.main
+{
+    display:flex;    
+    justify-content: flex-start;
+    align-items: flex-end;
+
+  width: 500px;
+  height: 500px;
+  border: 2px solid red;
+}

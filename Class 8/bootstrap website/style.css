@@ -1,0 +1,18 @@
+#mainbar
+{
+    background-color: lightgreen !important;
+    width: 100% !important;
+}
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card
+{
+    display:inline-block;
+}
+.white
+{
+    color: white !important;
+    font-weight: bolder;
+}
